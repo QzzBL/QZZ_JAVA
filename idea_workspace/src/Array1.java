@@ -13,6 +13,8 @@ public class Array1 {
         int MinA = 0;
         int MaxIndex = 0;
         int t = 0;
+        int[] A = { 6, 2, 5, 65 ,3 ,57 ,8 , 9, 66 ,7};
+        for()
 
 
 
