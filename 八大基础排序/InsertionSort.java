@@ -33,7 +33,7 @@ public class InsertionSort {
                 arrays[1] = temp;
             }else{
 
-                //如果第三个数比第一恶小，就将第三个数插入到第一个数前面
+                //如果第三个数比第一个小，就将第三个数插入到第一个数前面
                 arrays[1] = arrays[0];
                 arrays[0] = temp;
 
