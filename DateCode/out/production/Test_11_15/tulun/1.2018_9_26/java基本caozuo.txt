@@ -1,0 +1,23 @@
+1.
+.java 文件是java的源文件，但是不能直接运行，必须先被编译成为.class文件 才能够执行
+java 使用 javac命令进行编译:
+
+语法：
+ 
+javac filename.java
+
+java的运行命令是:
+ 
+java classname
+ 
+
+注：必须跟上.java 后缀名
+
+e: 切换盘符为e盘
+cd e:\project\j2se\src 切换目录到源文件目录
+javac HelloWorld.java 编译命令 javac 文件名大小写必须一致
+
+
+
+2.
+println 表示打印数据到控制台，并且换行
